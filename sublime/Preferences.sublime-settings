@@ -1,0 +1,21 @@
+{
+	"bold_folder_labels": true,
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"font-face": "Monaco",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Emmet"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"preview_on_click": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}

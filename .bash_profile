@@ -1,3 +1,6 @@
+#### Bash general
+alias ll='ls -lG'
+
 #### OS X  Git Helper
 
 export PATH="/usr/local/mysql/bin:$PATH"

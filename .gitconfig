@@ -1,0 +1,17 @@
+[user]
+    name = Benno Mielke
+    email = look@webinfluenza.de
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    s = status -s
+    ss = status
+    f = fetch
+    r = rebase
+    pr = pull --rebase
+    d = diff
+    dc = diff --cached
+    ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
+    ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
+    delete-merged-branches = !git branch --merged | grep -v '*' | xargs -n 1 git branch -d

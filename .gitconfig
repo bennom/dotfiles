@@ -6,6 +6,7 @@
     br = branch
     ci = commit
     s = status -s
+    st = status
     ss = status
     f = fetch
     r = rebase

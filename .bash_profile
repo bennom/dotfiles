@@ -1,5 +1,7 @@
 #### Bash general
 alias ll='ls -la'
+alias grepjs='grep -rin --include=*.js'
+alias grepscss='grep -rin --include=*.scss'
 
 #### OS X  Git Helper
 

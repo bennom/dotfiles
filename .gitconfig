@@ -8,6 +8,9 @@
     s = status -s
     st = status
     ss = status
+    sc = stash clear
+    sl = stash list
+    sp = stash pop
     f = fetch
     r = rebase
     pr = pull --rebase

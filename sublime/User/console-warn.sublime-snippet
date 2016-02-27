@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-console.warn( '${1:text}' );${2}
+console.warn( ${1:text} );${2}
 ]]></content>
 <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 <tabTrigger>cwarn</tabTrigger> -->

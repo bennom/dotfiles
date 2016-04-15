@@ -18,7 +18,6 @@
     sc = stash clear
     sl = stash list
     sp = stash pop
-    ss = status
     st = status
     undocommit = reset HEAD^
 [push]

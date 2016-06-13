@@ -1,3 +1,9 @@
+# when there is a .bash_aliases file located,
+# load that file
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
 #### Bash general
 alias ll='ls -la'
 alias grepjs='grep -rin --include=*.js'

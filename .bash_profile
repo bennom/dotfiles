@@ -6,8 +6,12 @@ fi
 
 #### Bash general
 alias ll='ls -la'
+alias l='ls'
+
 alias grepjs='grep -rin --include=*.js'
 alias grepscss='grep -rin --include=*.scss'
+alias grepphp='grep -rin --include=*.php'
+alias grephtml='grep -rin --include=*.html'
 
 #### OS X  Git Helper
 

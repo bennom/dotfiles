@@ -4,6 +4,7 @@
 [alias]
     co = checkout
     d = diff
+    cm = commit -m
     dc = diff --cached
     delete-merged-branches = !git branch --merged | grep -v '*' | xargs -n 1 git branch -d
     f = fetch

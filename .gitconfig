@@ -1,6 +1,6 @@
 [user]
     name = Benno Mielke
-    email = look@webinfluenza.de
+    email = mail@example.com
 [alias]
     co = checkout
     d = diff
@@ -25,3 +25,4 @@
     default = simple
 [core]
     editor = vim
+
